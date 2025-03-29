@@ -1,0 +1,6 @@
+streamlit
+ccxt
+xgboost
+ta
+pandas
+numpy
