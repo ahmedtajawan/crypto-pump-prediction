@@ -4,3 +4,5 @@ xgboost
 git+https://github.com/bukosabino/ta.git
 pandas
 numpy
+joblib
+ccxt
