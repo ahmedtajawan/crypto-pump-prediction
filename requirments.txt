@@ -1,6 +1,6 @@
 streamlit
 ccxt
 xgboost
-ta==0.10.1
+git+https://github.com/bukosabino/ta.git
 pandas
 numpy
