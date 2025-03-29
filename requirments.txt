@@ -1,6 +1,6 @@
 streamlit
 ccxt
 xgboost
-ta
+ta==0.10.1
 pandas
 numpy
